@@ -1,4 +1,5 @@
 OO의 핵심
+
 -Inheritance, Encapsulation, Polymorphism
   핵심이 아니라 OO의 메커니즘(도구)
 -IoC를 통해 상위 레벨의 모듈을 하위레벨의 모듈로 부터 보호하는것.
