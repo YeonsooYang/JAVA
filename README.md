@@ -2,9 +2,12 @@ OO의 핵심
 
 -Inheritance, Encapsulation, Polymorphism
   핵심이 아니라 OO의 메커니즘(도구)
+  
 -IoC를 통해 상위 레벨의 모듈을 하위레벨의 모듈로 부터 보호하는것.
   OCP를 통해 새로운 요구사항을 반영할 수 있음
+  
 -OO design은 dependency management
+
 
 SOLID 객체지향 프로그래밍 원칙
   -단일 책임 원칙(Single Responsibility Principle)
