@@ -8,7 +8,6 @@ OO의 핵심
   
 -OO design은 dependency management
 
-
 SOLID 객체지향 프로그래밍 원칙
   -단일 책임 원칙(Single Responsibility Principle)
   한 클래스는 하나의 책임만 가져야 한다.
